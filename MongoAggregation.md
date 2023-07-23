@@ -3,7 +3,7 @@
 ### Requirements:
 
 - Import the restaurant.json file as a new collection
-
+ 
 ### Exercise:
 
 1. Write a MongoDB query to find the restaurant Id, name, borough and cuisine for those restaurants which contain 'Reg' as three letters somewhere in its name.
